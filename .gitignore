@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.pdf
+# Never commit saved web pages or local settings
+*.html
+config_local.py
